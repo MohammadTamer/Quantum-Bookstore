@@ -1,0 +1,200 @@
+EBook|ISBN001|Deep Work Vol 1|2001|21
+EBook|ISBN002|Zero to One Vol 2|2002|22
+EBook|ISBN003|The Da Vinci Code Vol 3|2003|23
+EBook|ISBN004|Can’t Hurt Me Vol 4|2004|24
+EBook|ISBN005|Sapiens Vol 5|2005|25
+EBook|ISBN006|Grit Vol 6|2006|26
+EBook|ISBN007|Atomic Habits Vol 7|2007|27
+EBook|ISBN008|Origin Vol 8|2008|28
+EBook|ISBN009|Clean Code Vol 9|2009|29
+EBook|ISBN010|The Da Vinci Code Vol 10|2010|30
+EBook|ISBN011|Atomic Habits Vol 11|2011|31
+EBook|ISBN012|The Lean Startup Vol 12|2012|32
+EBook|ISBN013|Rich Dad Poor Dad Vol 13|2013|33
+EBook|ISBN014|The Da Vinci Code Vol 14|2014|34
+EBook|ISBN015|Digital Fortress Vol 15|2015|20
+EBook|ISBN016|Origin Vol 16|2016|21
+EBook|ISBN017|Educated Vol 17|2017|22
+EBook|ISBN018|Rich Dad Poor Dad Vol 18|2018|23
+EBook|ISBN019|Atomic Habits Vol 19|2019|24
+EBook|ISBN020|Digital Fortress Vol 20|2020|25
+EBook|ISBN021|The Alchemist Vol 21|2021|26
+EBook|ISBN022|The Alchemist Vol 22|2022|27
+EBook|ISBN023|Deception Point Vol 23|2023|28
+EBook|ISBN024|The Alchemist Vol 24|2024|29
+EBook|ISBN025|Clean Code Vol 25|2000|30
+EBook|ISBN026|The 5 AM Club Vol 26|2001|31
+EBook|ISBN027|The Lean Startup Vol 27|2002|32
+EBook|ISBN028|Origin Vol 28|2003|33
+EBook|ISBN029|Clean Code Vol 29|2004|34
+EBook|ISBN030|Deep Work Vol 30|2005|20
+EBook|ISBN031|Can’t Hurt Me Vol 31|2006|21
+EBook|ISBN032|Angels and Demons Vol 32|2007|22
+EBook|ISBN033|Inferno Vol 33|2008|23
+EBook|ISBN034|The Alchemist Vol 34|2009|24
+EBook|ISBN035|Digital Fortress Vol 35|2010|25
+EBook|ISBN036|Digital Fortress Vol 36|2011|26
+EBook|ISBN037|Inferno Vol 37|2012|27
+EBook|ISBN038|Digital Fortress Vol 38|2013|28
+EBook|ISBN039|Atomic Habits Vol 39|2014|29
+EBook|ISBN040|Rich Dad Poor Dad Vol 40|2015|30
+EBook|ISBN041|The Da Vinci Code Vol 41|2016|31
+EBook|ISBN042|Zero to One Vol 42|2017|32
+EBook|ISBN043|Thinking Fast and Slow Vol 43|2018|33
+EBook|ISBN044|Zero to One Vol 44|2019|34
+EBook|ISBN045|Educated Vol 45|2020|20
+EBook|ISBN046|Can’t Hurt Me Vol 46|2021|21
+EBook|ISBN047|Grit Vol 47|2022|22
+EBook|ISBN048|The Lean Startup Vol 48|2023|23
+EBook|ISBN049|Thinking Fast and Slow Vol 49|2024|24
+EBook|ISBN050|Angels and Demons Vol 50|2000|25
+EBook|ISBN051|Rich Dad Poor Dad Vol 51|2001|26
+EBook|ISBN052|Inferno Vol 52|2002|27
+EBook|ISBN053|Sapiens Vol 53|2003|28
+EBook|ISBN054|Thinking Fast and Slow Vol 54|2004|29
+EBook|ISBN055|Digital Fortress Vol 55|2005|30
+EBook|ISBN056|Origin Vol 56|2006|31
+EBook|ISBN057|Zero to One Vol 57|2007|32
+EBook|ISBN058|The Lean Startup Vol 58|2008|33
+EBook|ISBN059|Can’t Hurt Me Vol 59|2009|34
+EBook|ISBN060|Digital Fortress Vol 60|2010|20
+EBook|ISBN061|Inferno Vol 61|2011|21
+EBook|ISBN062|Can’t Hurt Me Vol 62|2012|22
+EBook|ISBN063|Grit Vol 63|2013|23
+EBook|ISBN064|The Da Vinci Code Vol 64|2014|24
+EBook|ISBN065|The Power of Habit Vol 65|2015|25
+EBook|ISBN066|Thinking Fast and Slow Vol 66|2016|26
+EBook|ISBN067|Grit Vol 67|2017|27
+EBook|ISBN068|The Lean Startup Vol 68|2018|28
+EBook|ISBN069|Deception Point Vol 69|2019|29
+EBook|ISBN070|Inferno Vol 70|2020|30
+EBook|ISBN071|Can’t Hurt Me Vol 71|2021|31
+EBook|ISBN072|Can’t Hurt Me Vol 72|2022|32
+EBook|ISBN073|The 5 AM Club Vol 73|2023|33
+EBook|ISBN074|Atomic Habits Vol 74|2024|34
+EBook|ISBN075|Zero to One Vol 75|2000|20
+EBook|ISBN076|Atomic Habits Vol 76|2001|21
+EBook|ISBN077|Angels and Demons Vol 77|2002|22
+EBook|ISBN078|Can’t Hurt Me Vol 78|2003|23
+EBook|ISBN079|Angels and Demons Vol 79|2004|24
+EBook|ISBN080|The Da Vinci Code Vol 80|2005|25
+EBook|ISBN081|Digital Fortress Vol 81|2006|26
+EBook|ISBN082|Atomic Habits Vol 82|2007|27
+EBook|ISBN083|Inferno Vol 83|2008|28
+EBook|ISBN084|The 5 AM Club Vol 84|2009|29
+EBook|ISBN085|Origin Vol 85|2010|30
+EBook|ISBN086|The Power of Habit Vol 86|2011|31
+EBook|ISBN087|Thinking Fast and Slow Vol 87|2012|32
+EBook|ISBN088|Clean Code Vol 88|2013|33
+EBook|ISBN089|Atomic Habits Vol 89|2014|34
+EBook|ISBN090|Educated Vol 90|2015|20
+EBook|ISBN091|Educated Vol 91|2016|21
+EBook|ISBN092|Rich Dad Poor Dad Vol 92|2017|22
+EBook|ISBN093|Deception Point Vol 93|2018|23
+EBook|ISBN094|Deep Work Vol 94|2019|24
+EBook|ISBN095|Inferno Vol 95|2020|25
+EBook|ISBN096|The Power of Habit Vol 96|2021|26
+EBook|ISBN097|The Power of Habit Vol 97|2022|27
+EBook|ISBN098|Can’t Hurt Me Vol 98|2023|28
+EBook|ISBN099|Digital Fortress Vol 99|2024|29
+EBook|ISBN100|Sapiens Vol 100|2000|30
+PaperBook|ISBN101|The Hobbit Part 1|1981|31
+PaperBook|ISBN102|A Tale of Two Cities Part 2|1982|32
+PaperBook|ISBN103|Great Expectations Part 3|1983|33
+PaperBook|ISBN104|The Great Gatsby Part 4|1984|34
+PaperBook|ISBN105|Ulysses Part 5|1985|35
+PaperBook|ISBN106|The Odyssey Part 6|1986|36
+PaperBook|ISBN107|War and Peace Part 7|1987|37
+PaperBook|ISBN108|To Kill a Mockingbird Part 8|1988|38
+PaperBook|ISBN109|The Great Gatsby Part 9|1989|39
+PaperBook|ISBN110|Wuthering Heights Part 10|1990|18
+PaperBook|ISBN111|The Kite Runner Part 11|1991|19
+PaperBook|ISBN112|A Tale of Two Cities Part 12|1992|20
+PaperBook|ISBN113|Crime and Punishment Part 13|1993|21
+PaperBook|ISBN114|Wuthering Heights Part 14|1994|22
+PaperBook|ISBN115|The Road Part 15|1995|23
+PaperBook|ISBN116|The Road Part 16|1996|24
+PaperBook|ISBN117|Crime and Punishment Part 17|1997|25
+PaperBook|ISBN118|Of Mice and Men Part 18|1998|26
+PaperBook|ISBN119|War and Peace Part 19|1999|27
+PaperBook|ISBN120|Brave New World Part 20|2000|28
+PaperBook|ISBN121|1984 Part 21|2001|29
+PaperBook|ISBN122|Great Expectations Part 22|2002|30
+PaperBook|ISBN123|The Hobbit Part 23|2003|31
+PaperBook|ISBN124|Hamlet Part 24|2004|32
+PaperBook|ISBN125|Great Expectations Part 25|2005|33
+PaperBook|ISBN126|Pride and Prejudice Part 26|2006|34
+PaperBook|ISBN127|The Great Gatsby Part 27|2007|35
+PaperBook|ISBN128|Hamlet Part 28|2008|36
+PaperBook|ISBN129|Pride and Prejudice Part 29|2009|37
+PaperBook|ISBN130|The Kite Runner Part 30|2010|38
+PaperBook|ISBN131|The Road Part 31|2011|39
+PaperBook|ISBN132|Jane Eyre Part 32|2012|18
+PaperBook|ISBN133|Hamlet Part 33|2013|19
+PaperBook|ISBN134|To Kill a Mockingbird Part 34|2014|20
+PaperBook|ISBN135|Moby Dick Part 35|2015|21
+PaperBook|ISBN136|1984 Part 36|2016|22
+PaperBook|ISBN137|The Great Gatsby Part 37|2017|23
+PaperBook|ISBN138|Of Mice and Men Part 38|2018|24
+PaperBook|ISBN139|Wuthering Heights Part 39|2019|25
+PaperBook|ISBN140|Crime and Punishment Part 40|1950|26
+PaperBook|ISBN141|The Odyssey Part 41|1951|27
+PaperBook|ISBN142|The Catcher in the Rye Part 42|1952|28
+PaperBook|ISBN143|Moby Dick Part 43|1953|29
+PaperBook|ISBN144|Hamlet Part 44|1954|30
+PaperBook|ISBN145|Crime and Punishment Part 45|1955|31
+PaperBook|ISBN146|Ulysses Part 46|1956|32
+PaperBook|ISBN147|Hamlet Part 47|1957|33
+PaperBook|ISBN148|The Road Part 48|1958|34
+PaperBook|ISBN149|Crime and Punishment Part 49|1959|35
+PaperBook|ISBN150|Wuthering Heights Part 50|1960|36
+PaperBook|ISBN151|War and Peace Part 51|1961|37
+PaperBook|ISBN152|Hamlet Part 52|1962|38
+PaperBook|ISBN153|War and Peace Part 53|1963|39
+PaperBook|ISBN154|The Road Part 54|1964|18
+PaperBook|ISBN155|Pride and Prejudice Part 55|1965|19
+PaperBook|ISBN156|The Hobbit Part 56|1966|20
+PaperBook|ISBN157|The Hobbit Part 57|1967|21
+PaperBook|ISBN158|Great Expectations Part 58|1968|22
+PaperBook|ISBN159|Of Mice and Men Part 59|1969|23
+PaperBook|ISBN160|Ulysses Part 60|1970|24
+PaperBook|ISBN161|Brave New World Part 61|1971|25
+PaperBook|ISBN162|A Tale of Two Cities Part 62|1972|26
+PaperBook|ISBN163|1984 Part 63|1973|27
+PaperBook|ISBN164|Brave New World Part 64|1974|28
+PaperBook|ISBN165|Great Expectations Part 65|1975|29
+PaperBook|ISBN166|The Kite Runner Part 66|1976|30
+PaperBook|ISBN167|Of Mice and Men Part 67|1977|31
+PaperBook|ISBN168|The Hobbit Part 68|1978|32
+PaperBook|ISBN169|A Tale of Two Cities Part 69|1979|33
+PaperBook|ISBN170|Moby Dick Part 70|1980|34
+PaperBook|ISBN171|Crime and Punishment Part 71|1981|35
+PaperBook|ISBN172|1984 Part 72|1982|36
+PaperBook|ISBN173|Ulysses Part 73|1983|37
+PaperBook|ISBN174|1984 Part 74|1984|38
+PaperBook|ISBN175|Wuthering Heights Part 75|1985|39
+PaperBook|ISBN176|A Tale of Two Cities Part 76|1986|18
+PaperBook|ISBN177|Wuthering Heights Part 77|1987|19
+PaperBook|ISBN178|The Hobbit Part 78|1988|20
+PaperBook|ISBN179|The Great Gatsby Part 79|1989|21
+PaperBook|ISBN180|Crime and Punishment Part 80|1990|22
+PaperBook|ISBN181|The Road Part 81|1991|23
+PaperBook|ISBN182|1984 Part 82|1992|24
+PaperBook|ISBN183|The Odyssey Part 83|1993|25
+PaperBook|ISBN184|To Kill a Mockingbird Part 84|1994|26
+PaperBook|ISBN185|The Kite Runner Part 85|1995|27
+PaperBook|ISBN186|Brave New World Part 86|1996|28
+PaperBook|ISBN187|The Road Part 87|1997|29
+PaperBook|ISBN188|Hamlet Part 88|1998|30
+PaperBook|ISBN189|The Kite Runner Part 89|1999|31
+PaperBook|ISBN190|Ulysses Part 90|2000|32
+PaperBook|ISBN191|Pride and Prejudice Part 91|2001|33
+PaperBook|ISBN192|Pride and Prejudice Part 92|2002|34
+PaperBook|ISBN193|Great Expectations Part 93|2003|35
+PaperBook|ISBN194|The Odyssey Part 94|2004|36
+PaperBook|ISBN195|The Kite Runner Part 95|2005|37
+PaperBook|ISBN196|Crime and Punishment Part 96|2006|38
+PaperBook|ISBN197|Moby Dick Part 97|2007|39
+PaperBook|ISBN198|Hamlet Part 98|2008|18
+PaperBook|ISBN199|Crime and Punishment Part 99|2009|19
+PaperBook|ISBN200|The Road Part 100|2010|20
