@@ -17,7 +17,7 @@ public class Cart {
         for (Book book : books) {
             if (book instanceof EBook) {
                 ((EBook) book).sendToEmail("customer@example.com");
-                System.out.println("EBook \"" + book.getTitle() + "\" has been sent to customer@gmail.com");
+                System.out.println("📧 EBook \"" + book.getTitle() + "\" has been sent to customer@gmail.com");
                 taken.add(book);
             } else if (book instanceof PaperBook) {
                 PaperBook pb = (PaperBook) book;
@@ -26,9 +26,9 @@ public class Cart {
                     pb.decrementQuantity();
                     if (pb.isShippable()) {
                         pb.ShippingService("45 El-Hegaz St, Cairo");
-                        System.out.println("PaperBook \"" + pb.getTitle() + "\" has been shipped.");
+                        System.out.println("📦 PaperBook \"" + pb.getTitle() + "\" has been shipped.");
                     }else{
-                        System.out.println("PaperBook \"" + pb.getTitle() + "\" is not available for shipping. Please pick it up from the library inventory.");
+                        System.out.println("🏬 PaperBook \"" + pb.getTitle() + "\" is not available for shipping. Please pick it up from the library inventory.");
                     }
                     taken.add(pb);
                 } catch (OutOfStockException e) {
